@@ -47,3 +47,10 @@ body
 {
     font-size: 20px;
 }
+
+#post
+{
+    background: white;
+    padding: 1cm;  
+}
+
